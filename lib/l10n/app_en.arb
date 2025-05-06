@@ -1,0 +1,21 @@
+{
+    "@@locale": "en",
+    "appTitle": "Skin Care App",
+    "login": "Login",
+    "signup": "Sign Up",
+    "cameraCapture": "Capture Image",
+    "resultTitle": "Skin Type Result",
+    "getStarted": "Get Started",
+    "skip": "Skip",
+    "home": "Home",
+    "categories": "Categories",
+    "profile": "Profile",
+    "changePassword": "Change Password",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "min6Chars": "Minimum 6 characters required",
+    "save": "Save",
+    "passwordChanged": "Password changed successfully"
+}

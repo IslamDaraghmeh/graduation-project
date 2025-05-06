@@ -1,0 +1,14 @@
+{
+    "@@locale": "ar",
+    "appTitle": "تطبيق العناية بالبشرة",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "cameraCapture": "التقاط صورة",
+    "resultTitle": "نتيجة نوع البشرة",
+    "getStarted": "ابدأ الآن",
+    "skip": "تخطي",
+    "home": "الرئيسية",
+    "categories": "الفئات",
+    "profile": "الملف الشخصي",
+    "changePassword": "تغيير كلمة المرور"
+}

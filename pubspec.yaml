@@ -1,0 +1,47 @@
+name: skin_care_graduation_project
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  camera: ^0.10.5+7
+  firebase_messaging: ^15.2.5
+  flutter_local_notifications: ^19.1.0
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.1.5
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  generate: true
+  assets:
+    - assets/images/
+    - assets/lang/
+    - assets/images/hydrating_cream.png
+    - assets/images/oil_control.png
+    - assets/images/sunscreen.png
+    - assets/images/vitamin_c.png
+    - assets/images/clay_mask.png
+    - assets/images/cat_moisturizer.png
+    - assets/images/cat_cleanser.png
+    - assets/images/cat_serum.png
+    - assets/images/cat_mask.png
+    - assets/images/cat_sunscreen.png
+    - assets/images/cat_exfoliator.png
+
+  uses-material-design: true
